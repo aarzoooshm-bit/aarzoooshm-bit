@@ -1,6 +1,6 @@
 # Hi, I am Aarzoo!
 ## About Me
-- BCA (Hons) AI & Data Science Student at **K.R. Mangalam University**, Gurugram (Batch [2026–2029])
+- BCA (Hons) AI & Data Science Student at **K.R. Mangalam University**, Gurugram (Batch 2026–2029)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: AI-ML / Data Science
 
